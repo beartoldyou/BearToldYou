@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<p> Hello World :) </p>
+<title>Meu Primeiro Git</title>
 </head>
 <body>
+<p> Hello World :) </p>
 </body>
 </html>
